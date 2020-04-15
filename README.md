@@ -1,2 +1,2 @@
-# woocommerce-snippets-pageartcz
-WooCommerce snippets by PAGEART.CZ
+# WooCommerce snippets by PAGEART.CZ
+Repository with collection of useful WooCommerce snippets.
